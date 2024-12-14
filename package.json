@@ -33,7 +33,7 @@
     "@react-navigation/core": "^6.1.0",
     "@react-navigation/drawer": "^6.1.8",
     "@react-navigation/material-bottom-tabs": "^6.0.9",
-    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native": "^7.0.14",
     "@react-navigation/native-stack": "^6.2.5",
     "add": "^2.0.6",
     "axios": "^0.25.0",
